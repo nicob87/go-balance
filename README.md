@@ -42,5 +42,5 @@ Known deployments of BalanceCheckers are listed below.
 
 ## Notes
 
-- Credit to Steve Marx (@smarx) for the Solidity.
+- Credit to [Steve Marx](@smarx) for the Solidity.
 - Re-generate the contract bindings as needed with `go generate ./...` (from the package root).
