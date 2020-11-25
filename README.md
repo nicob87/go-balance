@@ -12,7 +12,7 @@ This contract includes a modification that allows ether balance to be read as we
 interface BalanceChecker {
     function balances(
         address[] calldata users,
-        address[] calldata tokens
+        address[] calldata tokens,
     )
         external
         view
