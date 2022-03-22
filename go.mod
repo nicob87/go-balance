@@ -1,4 +1,4 @@
-module github.com/hrharder/go-balance
+module github.com/nicob87/go-balance
 
 go 1.15
 
